@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... girls
 - 🌱 I’m currently learning ... in ottumwa high school
 - 💞️ I’m looking to collaborate on ... a good relationship
-- 📫 How to reach me ...
+- 📫 How to reach me ... j.deiters2023@ottumwaschools.com
 
 <!---
 arthermorgen/arthermorgen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
